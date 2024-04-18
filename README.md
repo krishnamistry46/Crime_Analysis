@@ -1,9 +1,7 @@
 # Crime Analysis
 Crime analysis Project 1 - Terrorism around the world
 
-## Objective 3:
-
-### Are there identifiable patterns or common characteristics in countries that would contribute to the rate of terrorism?
+## 3. Are there identifiable patterns or common characteristics in countries that would contribute to the rate of terrorism?
 
 For the characteristics of a country, we could look at various angles:
 
