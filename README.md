@@ -1,6 +1,4 @@
-# Crime_Analysis
-
-Analysis
+Summary Analysis
 
 The goal was to identify countries and regions that have the highest and lowest number of terrorist incidents from our dataset which recorded terrorism data from 1970 to 2017. 
 From the dataset our team took reference from, it indicates the following:
